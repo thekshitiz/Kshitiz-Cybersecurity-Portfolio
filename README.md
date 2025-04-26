@@ -11,7 +11,7 @@ Created and maintained by [Kshitiz Rai](https://kshitizrai.com.np/).
 
 | Project Folder               | Description                                                       | README Link                                           | Status        |
 |:-----------------------------|:------------------------------------------------------------------|:------------------------------------------------------|:--------------|
-| `DATACOM-CYBERSECURITY`       | This repo contains my work on cybersecurity for DATACOM, focusing on network security, vulnerability assessments, and penetration testing. | [View README](./DATACOM-CYBERSECURITY/README.md)        | Completed     |
+| `DATACOM-CYBERSECURITY`       | This repo contains my work on cybersecurity for DATACOM, focusing on network security, vulnerability assessments, and penetration testing. | [View README](https://github.com/thekshitiz/Kshitiz-Cybersecurity-Portfolio/blob/main/1%20-%20DATACOM%20-CYBERSECURITY/README.md)        | Completed     |
 
 ---
 
